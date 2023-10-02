@@ -42,3 +42,18 @@ Ahora modificamos el packages.json para que genere un dist a un archivo llamado 
 ```json 
 "start:types": "tsc basics/types.ts --outdir dist/ && node dist/types.js",
 ```
+
+*typescript* infiere datos
+
+
+
+## Tipos de datos
+
+string
+number
+boolean
+object
+Array<type>
+
+
+
